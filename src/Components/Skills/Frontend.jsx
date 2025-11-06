@@ -2,12 +2,12 @@ import React from "react";
 import html from "../../assets/1.png";
 import css from "../../assets/2.png";
 import js from "../../assets/3.png";
-import ts from "../../assets/4.png";
+// import ts from "../../assets/4.png";
 import react from "../../assets/5.png";
 import img6 from "../../assets/6.png";
-import img7 from "../../assets/7.png";
+// import img7 from "../../assets/7.png";
 import img8 from "../../assets/8.png";
-import img9 from "../../assets/9.png";
+// import img9 from "../../assets/9.png";
 const Frontend = () => {
   return (
     <div className="skills_content">
