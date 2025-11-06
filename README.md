@@ -3,9 +3,9 @@ Welcome to my portfolio website. All my top projects , skills and education are 
 
 ## Tech Stack
 
-- **Javascript**
 - **React**
 - **Nodejs**
+- **Javascript**
 - **Mongodb**
 - **MySQL**
 - **HTML**
