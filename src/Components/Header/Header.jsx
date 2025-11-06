@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import "./Header.css";
-import Res from "../../assets/AbhijeetKasar.pdf";
+import Res from "../../assets/Abhijeet-Kasar-Resume.pdf";
 const Header = () => {
   const [toggle, setToggle] = useState(false);
 
@@ -48,7 +48,7 @@ const Header = () => {
                 className="nav_link"
                 onClick={() =>
                   window.open(
-                    ""
+                    "https://drive.google.com/file/d/1xmObbn5V3TGB2N1Oyyjcao8rx--vi2Un/view?usp=sharing"
                   )
                 }
               >

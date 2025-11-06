@@ -1,7 +1,7 @@
 import React from "react";
 import "./About.css";
 import Aboutimg from "../../assets/about1.png";
-import Resume from "../../assets/AbhijeetKasar.pdf";
+import Resume from "../../assets/Abhijeet-Kasar-Resume.pdf";
 import Info from "./Info";
 const About = () => {
   return (
@@ -19,7 +19,7 @@ const About = () => {
             skills in a demanding workplace.
           </p>
           <div className="section_download">
-            <a download="" href={Resume} className="button  button--flex">
+            <a download="Abhijeet-Kasar-Resume.pdf" href={Resume} className="button  button--flex">
               Download Resume
               <svg
                 className="button__icon"

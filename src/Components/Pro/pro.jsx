@@ -14,21 +14,7 @@ const Projects = () => {
       <h2 className="section__title">Projects</h2>
       <span className="section__subtitle"></span>
       <div className="projects_filters">
-        <span className="projects_item" onClick={() => setItem(ProjectData)}>
-          ALL
-        </span>
-        {/* <span className="projects_item" onClick={() => filterItem("MERN")}>
-          MERN
-        </span>
-        <span className="projects_item" onClick={() => filterItem("React")}>
-          REACT
-        </span>
-        <span
-          className="projects_item"
-          onClick={() => filterItem("JavaScript")}
-        >
-          JAVASCRIPT
-        </span> */}
+      
       </div>
       <div className="projects_container grid">
         {item.map((elem) => {
@@ -47,14 +33,14 @@ const Projects = () => {
                 <a
                   href={project}
                   className="projects_button link"
-                  target="blank"
+                  target="_blank"
                 >
                   <i className="bx bx-link"></i>
                 </a>
                 <a
                   href={github}
                   className="projects_button github"
-                  target="blank"
+                  target="_blank"
                 >
                   <i className="bx bxl-github"></i>
                 </a>
@@ -67,3 +53,4 @@ const Projects = () => {
   );
 };
 export default Projects;
+
