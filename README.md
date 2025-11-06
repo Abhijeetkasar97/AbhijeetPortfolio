@@ -13,10 +13,10 @@ Welcome to my portfolio website. All my top projects , skills and education are 
 - **Git Calender**
 
 
-## 🔗 Links
+## 🔗 Links  
 
-**https://abhijeetkasarportfolio.netlify.app/
-**https://github.com/Abhijeetkasar97
+🌐 **Portfolio:** [https://abhijeetkasarportfolio.netlify.app](https://abhijeetkasarportfolio.netlify.app)  
+💻 **GitHub:** [https://github.com/Abhijeetkasar97](https://github.com/Abhijeetkasar97)
 
 ## Features
 
