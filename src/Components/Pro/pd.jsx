@@ -11,9 +11,9 @@ const ProjectData = [
     category: "React",
     description:
       "A gamified learning platform that revolutionizes education through interactive quizzes, rewards, and AI-powered personalization.",
-    project: "https://educationquizzapp.netlify.app/",
+    project: "https://eduquizapp.netlify.app/",
     github:
-      "https://github.com/Aamir-Hamza/B42_WEB_040_Responsive-Riders.git",
+      "https://github.com/Abhijeetkasar97/EduQuizApp",
     Tech: "HTML, CSS, React",
   },
   // {
@@ -44,8 +44,8 @@ const ProjectData = [
     category: "HTML-CSS-Javascript",
     description:
       "A travel website where users can book airline tickets, hotel and vacation package.",
-    project: "https://plabani07.github.io/B41_WEB-017_Code-Surgeons/",
-    github: "https://github.com/plabani07/B41_WEB-017_Code-Surgeons.git",
+    project: "https://expediaclone1.netlify.app/",
+    github: "https://github.com/Abhijeetkasar97/ExpediaClone",
     Tech: "HTML-CSS-Javascript",
   },
   // {
