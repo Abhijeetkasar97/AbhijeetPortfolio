@@ -1,13 +1,14 @@
 import React, { useState } from "react";
 import "./Header.css";
-import Res from "../../assets/Abhijeet-Kasar-Resume.pdf";
 const Header = () => {
   const [toggle, setToggle] = useState(false);
 
   return (
     <header className="header">
       <nav className="nav container">
-        <a className="nav_logo">Abhijeet Kasar!</a>
+        <a href="#home" className="nav_logo">
+          Abhijeet Kasar!
+        </a>
         <div className={toggle ? "nav_menu show-menu" : "nav_menu"}>
           <ul className="nav_list grid">
             <li className="nav_item" onClick={() => setToggle(!toggle)}>
@@ -43,8 +44,10 @@ const Header = () => {
             </li>
             <li className="nav_item" onClick={() => setToggle(!toggle)}>
               <a
-                download=""
-                href={Res}
+                href="/Abhijeet-Kasar-Resume.pdf"
+                download="Abhijeet-Kasar-Resume.pdf"
+                target="_blank"
+                rel="noopener noreferrer"
                 className="nav_link"
                 onClick={() =>
                   window.open(
