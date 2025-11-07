@@ -51,7 +51,7 @@ const Header = () => {
                 className="nav_link"
                 onClick={() =>
                   window.open(
-                    "https://drive.google.com/file/d/1Ejstvi_yMeCgN84lNSutQuJZDGNbAKSJ/view?usp=sharing"
+                    "https://drive.google.com/file/d/1Hl53GtWi4xAGEXTCy59XFqOuhT_O224F/view?usp=sharing"
                   )
                 }
               >
