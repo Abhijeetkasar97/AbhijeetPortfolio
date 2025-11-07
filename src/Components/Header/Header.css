@@ -16,6 +16,7 @@
 }
 .nav_logo {
   font-weight: var(--font-medium);
+  color: #0987d4;
 }
 .nav_toggle {
   color: var(--title-color);
