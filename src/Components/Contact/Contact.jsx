@@ -56,7 +56,7 @@ const Contact = () => {
               <i className="bx bxl-linkedin contact_card_icon"></i>
               <h3 className="contact_card_title">LinkedIn</h3>
               <a
-                href="https://www.linkedin.com/in/abhijeet-kasar-048938171/"
+                href="https://www.linkedin.com/in/abhijeet-kasar-048938171"
                 className="contact_button"
                 target="_blank"
               >
